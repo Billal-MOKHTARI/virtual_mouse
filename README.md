@@ -1,7 +1,7 @@
 # Virtual Mouse
 
 ## Description
-Move the mouse's pointer and trigger some events such as left and right clicks, double click, vertical and horizontal **scrolling**, **copy**, **cut**, **paste**, **quit**, ...etc based on hand gesture's detection by using an AI model.
+Move the mouse's pointer and trigger some events such as left and right clicks, double click, vertical and horizontal **scrolling**, **copy**, **cut**, **paste**, **quit**, **screenshot** ...etc based on hand gesture's detection by using an AI model.
 
 Each event is associated to one gesture defined by number of fingers up.
 
